@@ -1,0 +1,14 @@
+{
+    "format":  "zed-bilingual-one-click-v1",
+    "version":  "20261112-2",
+    "base_commit":  "a5c4ca8bf6c4717a328a4a61b42d6d1d38949bcc",
+    "base_version":  "1.27.0",
+    "upstream_sha256":  "0d697b9b7c81f63e07ea53ca60fd0f4c0d2225748688fb909865fb9a56ee957f",
+    "payload_dir":  "payload",
+    "files":  {
+                  "Zed.exe":  "0d697b9b7c81f63e07ea53ca60fd0f4c0d2225748688fb909865fb9a56ee957f",
+                  "conpty.dll":  "e2fe87e2258c4e46ffc5157f727218cc25f34a174902f72eb8a5b49edd9a6458",
+                  "OpenConsole.exe":  "2525c351aa136d555e5df9a3c9d6ce9be43f785e37e3c993b8f23b3f0a53c7fa",
+                  "zed.zh-CN.json":  "3ed7c6ffd858e462aa9d9f90694881e8703c115ca57922e9b49f4274162b0bf6"
+              }
+}

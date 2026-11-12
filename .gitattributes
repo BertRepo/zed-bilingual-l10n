@@ -1,0 +1,7 @@
+# 本仓库只存放文本源码，二进制发布包通过 GitHub Releases 分发。
+# 如需完整 GPL-3.0 对应源码，请同时下载 Release 附件中的发布包（内含 Zed.exe 等二进制）。
+* text=auto eol=auto
+*.cmd text eol=crlf
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
