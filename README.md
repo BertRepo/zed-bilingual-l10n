@@ -23,9 +23,9 @@ Turn Zed's interface into **Chinese-first text with smaller, muted English** rig
 
 ## 三步安装
 
-1. 到本仓库 **Releases** 页面下载 `Zed汉化一键补丁-20261112.zip`，**完整解压**到一个文件夹（不要在压缩包内直接双击）。
+1. 到本仓库 **Releases** 页面下载 `Zed-bilingual-one-click-20261112.zip`（SHA256 `d6c657da8d2eac56ee510b45e6152828054c1c28bbe5692063d95bd3532c513f`），**完整解压**到一个文件夹（不要在压缩包内直接双击）。
 2. **保存工作并关闭所有 Zed 窗口**（工具不会强行结束进程，检测到 Zed 正在运行会提示你先退出）。
-3. 双击 `Launch.cmd` → 按回车确认 → 看到“汉化补丁已应用”即完成。
+3. 双击解压出来的 `Launch.cmd` → 按回车确认 → 看到“汉化补丁已应用”即完成。
 
 ## 还原原版
 
@@ -170,7 +170,7 @@ A download-and-run patch package that turns Zed's UI into **Chinese-first text w
 
 ## Usage
 
-1. Download `Zed汉化一键补丁-20261112.zip` from the **Releases** page and **fully extract** it.
+1. Download `Zed-bilingual-one-click-20261112.zip` from the **Releases** page and **fully extract** it.
 2. Close Zed (save your work first).
 3. Double-click `Launch.cmd`, press Enter. Run `Restore.cmd` to revert byte-for-byte.
 
